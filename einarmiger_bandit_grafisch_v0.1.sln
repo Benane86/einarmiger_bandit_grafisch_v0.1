@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "einarmiger_bandit_grafisch_v0.1", "einarmiger_bandit_grafisch_v0.1\einarmiger_bandit_grafisch_v0.1.csproj", "{A0CCDC19-C0D0-4100-B101-9315B365DE1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0CCDC19-C0D0-4100-B101-9315B365DE1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0CCDC19-C0D0-4100-B101-9315B365DE1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0CCDC19-C0D0-4100-B101-9315B365DE1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0CCDC19-C0D0-4100-B101-9315B365DE1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0777DED8-6836-4FBA-AF1B-A19EFBF4962B}
+	EndGlobalSection
+EndGlobal
